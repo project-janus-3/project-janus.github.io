@@ -38,19 +38,21 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/projectjanus-landing-mockup.png)
 
-### Index pages (Projects, Profiles, Interests)
+### Index pages
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
-
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
+This page is...-->
 
 ![](images/profiles-page.png)
 
-The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
+This page is...-->
 
 ![](images/projects-page.png)
 
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
+This page is...-->
+
+![](images/interests-page.png)
+
+This page is...-->
 
 ![](images/interests-page.png)
 
