@@ -12,6 +12,8 @@ Project Janus's main mission is to provide UH computer science and engineering s
 
 ### Deployment
 
+Link to the [app](https://project-janus.vercel.app/)
+
 ### Github Organization
 
 Access to the Github Organization can be accessed here: [Github Organization](https://github.com/project-janus-3)
