@@ -12,13 +12,11 @@
 
 ### Github Organization
 
-[here:](https://github.com/project-janus-3)
+[link](https://github.com/project-janus-3)
 
 ### Team Contract
 
-[](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
-
-### Deployment
+[link](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
 
 ## M1 Project Page
 
@@ -51,15 +49,6 @@ Finally, the Interests page shows all the currently defined Interests, and their
 
 ![](images/interests-page.png)
 
-## Deployment
-
-## GitHub Organization
-
-[here:](https://github.com/project-janus-3)
-
-## Team Contract
-
-[here:](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
 
 ## Team
 
