@@ -14,7 +14,7 @@ Project Janus's main mission is to provide UH computer science and engineering s
 
 ### Github Organization
 
-Access to the Githuv Organization can be accessed here: [link](https://github.com/project-janus-3)
+Access to the Github Organization can be accessed here: [link](https://github.com/project-janus-3)
 
 ### Team Contract
 
