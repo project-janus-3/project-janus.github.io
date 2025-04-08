@@ -14,21 +14,21 @@ Project Janus's main mission is to provide UH computer science and engineering s
 
 ### Github Organization
 
-[link](https://github.com/project-janus-3)
+Access to the Githuv Organization can be accessed here: [link](https://github.com/project-janus-3)
 
 ### Team Contract
 
-[link](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
+Access to the Team Contract can be accessed here: [link](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
 
 ## Project Pages
 
 ### M1 Project Page
 
-[link](https://github.com/orgs/project-janus-3/projects/2)
+Our M1 Project Page can be accessed here: [link](https://github.com/orgs/project-janus-3/projects/2)
 
 ### M2 Project Page
 
-[link](https://github.com/orgs/project-janus-3/projects/6)
+Our M2 Project Page can be accessed here: [link](https://github.com/orgs/project-janus-3/projects/6)
 
 ## User Guide - Mockup Pages
 
