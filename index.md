@@ -14,15 +14,15 @@
 
 
 
-## User Guide
+## User Guide - Mockup Pages
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides mockups of different pages for the user interface for the Project Janus application
 
 ### Landing Page
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](images/projectjanus-landing-mockup.png)
 
 ### Index pages (Projects, Profiles, Interests)
 
