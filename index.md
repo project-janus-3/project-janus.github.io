@@ -1,4 +1,4 @@
-# Bowfolios
+# Project Janus
 
 ## Table of contents
 
