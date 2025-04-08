@@ -44,7 +44,11 @@ Finally, the Interests page shows all the currently defined Interests, and their
 
 ## GitHub Organization
 
+[here:](https://github.com/project-janus-3)
+
 ## Team Contract
+
+[here:](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
 
 ## Team
 
