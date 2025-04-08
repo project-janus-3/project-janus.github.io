@@ -60,11 +60,11 @@ A simple page to browse through different companies that are affiliated with Pro
 
 ![](images/projectjanus-browsing-mockup.png)
 
-### INSERT MOCKUP
+### Student Home Page
 
-This page is...-->
+This page displays the student's basic info, provides suggested companies based on their intrests, and shows important messages or announcemets.
 
-![](images/interests-page.png)
+![](images/projectjanus-studenthome-mockup.png)
 
 
 ## Team
