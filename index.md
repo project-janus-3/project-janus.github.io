@@ -8,6 +8,8 @@
 
 ## Overview
 
+This projects main vision is to...-->
+
 ### Deployment
 
 ### Github Organization
@@ -24,6 +26,7 @@
 
 ## M2 Project Page
 
+[link](https://github.com/orgs/project-janus-3/projects/6)
 
 ## User Guide - Mockup Pages
 
