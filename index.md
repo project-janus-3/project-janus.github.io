@@ -16,11 +16,11 @@ Link to the [app](https://project-janus.vercel.app/)
 
 ### Github Organization
 
-Access to the Github Organization can be accessed here: [Github Organization](https://github.com/project-janus-3)
+Access to the Github Organization can be found here: [Github Organization](https://github.com/project-janus-3)
 
 ### Team Contract
 
-Access to the Team Contract can be accessed here: [Team Contract](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
+Access to the Team Contract can be found here: [Team Contract](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
 
 ## Project Pages
 
