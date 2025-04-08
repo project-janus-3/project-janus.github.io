@@ -8,10 +8,21 @@
 
 ## Overview
 
+### Deployment
+
+### Github Organization
+
+[here:](https://github.com/project-janus-3)
+
+### Team Contract
+
+[](https://docs.google.com/document/d/1GqOg4DLsPoxIgjphTprqiRtj9g98ZINV9jkKbhVfkNo/edit?usp=sharing)
+
+### Deployment
+
 ## M1 Project Page
 
 ## M2 Project Page
-
 
 
 ## User Guide - Mockup Pages
