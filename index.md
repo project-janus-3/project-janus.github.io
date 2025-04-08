@@ -44,7 +44,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 This page is the student's profile and shows information about their skills, preferred location, connections, and link to professional portfolio.
 
-![](images//projectjanus-studentprofile-mockup.png)
+![](images/projectjanus-studentprofile-mockup.png)
 
 ### Company Profile
 
