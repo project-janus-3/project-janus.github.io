@@ -60,7 +60,7 @@ The page also provides a list of careers with availability and job description.
 
 A simple page to browse through different companies that are affiliated with Project Janus.
 
-![](images/Screenshot2025-04-14130954.png)
+![](images/Screenshot-2025-04-14-130954.png) 
 
 ### Student Home Page
 
