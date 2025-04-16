@@ -30,7 +30,7 @@ Our M1 Project Page can be accessed here: [M1 Project Page](https://github.com/o
 
 ### M2 Project Page
 
-Our M2 Project Page can be accessed here: [M2 Project Page](https://github.com/orgs/project-janus-3/projects/6)
+Our M2 Project Page can be accessed here: [M2 Project Page](https://github.com/orgs/project-janus-3/projects/7)
 
 ## User Guide - Mockup Pages
 
