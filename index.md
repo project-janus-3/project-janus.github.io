@@ -95,7 +95,7 @@ This page displays the student's basic info, provides suggested companies based 
 
 This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
 
-## Browse 
+## Browse Page
 
 A simple page to browse through different companies that are affiliated with Project Janus.
 
