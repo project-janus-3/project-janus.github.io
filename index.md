@@ -1,4 +1,5 @@
 # Project Janus
+[![ci-nextjs-application-template](https://github.com/project-janus-3/project-janus/actions/workflows/ci.yml/badge.svg)](https://github.com/project-janus-3/project-janus/actions/workflows/ci.yml)
 
 ## Table of contents
 
