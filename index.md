@@ -36,7 +36,7 @@ Our M2 Project Page can be accessed here: [M2 Project Page](https://github.com/o
 
 Our M3 Project Page can be accessed here: [M3 Project Page](https://github.com/orgs/project-janus-3/projects/9)
 
-## User Guide - Mockup Pages
+## User Guide 
 
 This section provides mockups of different pages for the user interface for the Project Janus application
 
@@ -72,13 +72,6 @@ This page displays the student's basic info, provides suggested companies based 
 
 ![](images/projectjanus-studenthome-mockup.png)
 
-
-## Team
-
-Project Janus was created by [Isaiah Dela Cruz](https://isaiahdelacruz.github.io/), [Ethan Figart](https://efigart.github.io/), [Danny Ngo](https://danny-ngo-2005.github.io/), and [Royce Jarvy Uy](https://royce-jarvy.github.io/).
-
-
-
 ## User Guide - Implemented Functionality
 
 ### Landing page
@@ -110,6 +103,29 @@ This page show's the company's profile. It includes basic information such as na
 A simple page to browse through different companies that are affiliated with Project Janus.
 
 ## Developer Guide
+
+This section provides information for developers who want to build off the code base.
+
+* For ease of access, [install GitHub desktop](https://desktop.github.com/download/).
+* Visit the [Project Janus repository](https://github.com/project-janus-3/project-janus). Click the green button labeled "Code" and from the dropdown, press "Open with GitHub Desktop" to clone to your repository.
+* From your workspace, change into the app/ directory of the cloned repository (via Terminal, etc.) and install the libraries by running:
+
+```
+$ npm install
+```
+
+* Once finished, you should be able to access the application by running:
+```
+$ npm run dev
+```
+
+* A link should pop up to http://localhost:3000 - The application should be displayed there.
+
+## Team
+
+Project Janus was created by [Isaiah Dela Cruz](https://isaiahdelacruz.github.io/), [Ethan Figart](https://efigart.github.io/), [Danny Ngo](https://danny-ngo-2005.github.io/), and [Royce Jarvy Uy](https://royce-jarvy.github.io/).
+
+
 
 
 
