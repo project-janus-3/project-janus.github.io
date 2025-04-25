@@ -103,6 +103,8 @@ This page show's the company's profile. It includes basic information such as na
 
 A simple page to browse through different companies that are affiliated with Project Janus.
 
+![](images/M2_Browse.png)
+
 ## Developer Guide
 
 This section provides information for developers who want to build off the code base.
