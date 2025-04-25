@@ -77,6 +77,8 @@ This page displays the student's basic info, provides suggested companies based 
 
 Project Janus was created by [Isaiah Dela Cruz](https://isaiahdelacruz.github.io/), [Ethan Figart](https://efigart.github.io/), [Danny Ngo](https://danny-ngo-2005.github.io/), and [Royce Jarvy Uy](https://royce-jarvy.github.io/).
 
+
+
 ## User Guide - Implemented Functionality
 
 ### Landing page
