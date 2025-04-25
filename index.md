@@ -83,17 +83,25 @@ Project Janus was created by [Isaiah Dela Cruz](https://isaiahdelacruz.github.io
 
 The landing page is presented to users when they visit the top-level URL to the site. The 'Get Started' button redirects the user to the sign-in / sign-up page. If the user is already signed in, it redirects them to the home page corresponding to the type of account they have. 
 
+![](images/M2_LandingPage.png)
+
 ### Student Profile Page
 
 This page is the student's profile and shows information about their skills, preferred location, connections, and link to professional portfolio.
+
+![](images/M2_StudentProfile.png)
 
 ### Student Home Page
 
 This page displays the student's basic info, provides suggested companies based on their intrests, and shows important messages or announcemets. The 'Edit Profile' button redirects the user to the 'User Profile Page'. The 'Browse All' button redirects the user to the 'Browse' Page.
 
+![](images/M2_StudentHome.png)
+
 ### Company Profile Page 
 
 This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
+
+![](images/M2_CompanyProfile.png)
 
 ### Browse Page
 
