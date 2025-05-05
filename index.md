@@ -124,6 +124,8 @@ $ npm run dev
 
 * A link should pop up to http://localhost:3000 - The application should be displayed there.
 
+## Community Feedback
+
 ## Team
 
 Project Janus was created by [Isaiah Dela Cruz](https://isaiahdelacruz.github.io/), [Ethan Figart](https://efigart.github.io/), [Danny Ngo](https://danny-ngo-2005.github.io/), and [Royce Jarvy Uy](https://royce-jarvy.github.io/).
