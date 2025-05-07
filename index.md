@@ -126,6 +126,8 @@ $ npm run dev
 
 ## Community Feedback
 
+We are intrested in your expirence using Project Janus! If you would like, please take a couple of minutes to fill out the [Project Janus Feedback Form](https;//). It contains only 5 short questions and will help us understand how to improve the system.
+
 ## Team
 
 Project Janus was created by [Isaiah Dela Cruz](https://isaiahdelacruz.github.io/), [Ethan Figart](https://efigart.github.io/), [Danny Ngo](https://danny-ngo-2005.github.io/), and [Royce Jarvy Uy](https://royce-jarvy.github.io/).
