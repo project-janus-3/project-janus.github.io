@@ -69,25 +69,25 @@ A simple page to browse through different companies that are affiliated with Pro
 
 This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
 
-![](images/M2_CompanyProfile.png)
+![](images/companyprof.png)
 
 ### Edit Profile Page
 
 This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
 
-![](images/M2_CompanyProfile.png)
+![](images/editprof.png)
 
 ### Add Job Page
 
 This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
 
-![](images/M2_CompanyProfile.png)
+![](images/addjob.png)
 
 ### Edit Job Page
 
 This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
 
-![](images/M2_CompanyProfile.png)
+![](images/editjob.png)
 
 ## Mockups
 
