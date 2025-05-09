@@ -43,19 +43,19 @@ Our M3 Project Page can be accessed here: [M3 Project Page](https://github.com/o
 
 The landing page is presented to users when they visit the top-level URL to the site. The 'Get Started' button redirects the user to the sign-in / sign-up page. If the user is already signed in, it redirects them to the home page corresponding to the type of account they have. 
 
-![](images/M2_LandingPage.png)
+![](images/landingpg.png)
 
 ### Student Profile Page
 
 This page is the student's profile and shows information about their skills, preferred location, connections, and link to professional portfolio.
 
-![](images/M2_StudentProfile.png)
+![](images/studentprof.png)
 
 ### Student Home Page
 
 This page displays the student's basic info, provides suggested companies based on their intrests, and shows important messages or announcemets. The 'Edit Profile' button redirects the user to the 'User Profile Page'. The 'Browse All' button redirects the user to the 'Browse' Page.
 
-![](images/M2_StudentHome.png)
+![](images/studenthome.png)
 
 ### Browse Page
 
@@ -73,19 +73,19 @@ This page show's the company's profile. It includes basic information such as na
 
 ### Edit Profile Page
 
-This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
+This page show's where to edit the company's profile. Here the user can change all fields of the company profile and also reset the fields.
 
 ![](images/editprof.png)
 
 ### Add Job Page
 
-This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
+This page show's where to add a job listing. It includes fields such as position, skills, type of opening, salary, amount of openings, and the description of the job.
 
 ![](images/addjob.png)
 
 ### Edit Job Page
 
-This page show's the company's profile. It includes basic information such as name, location, and a description about them. The page also provides a list of careers with availability and job description.
+This page show's where to edit a job listing. Here the user can choose to change all fields of the job listing and also reset the fields.
 
 ![](images/editjob.png)
 
