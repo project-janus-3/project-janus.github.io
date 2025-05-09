@@ -126,7 +126,7 @@ $ npm run dev
 
 ## Community Feedback
 
-We are intrested in your expirence using Project Janus! If you would like, please take a couple of minutes to fill out the [Project Janus Feedback Form](https;//). It contains only 5 short questions and will help us understand how to improve the system.
+We are intrested in your expirence using Project Janus! If you would like, please take a couple of minutes to fill out the [Project Janus Feedback Form]([https;//](https://docs.google.com/forms/d/e/1FAIpQLSfAI9DCwE6x5gdz6fo2SrTYMApu4G3tktQeBigOvmJ6uvx4yQ/viewform)). It contains only 5 short questions and will help us understand how to improve the system.
 
 ## Team
 
